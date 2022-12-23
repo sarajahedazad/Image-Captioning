@@ -1,4 +1,4 @@
-# Image-Captioning
+# Image Captioning Neural Network with Pytorch
 
 For doing this homework, I've watched image captioning tutorials from "[Alladin Perrson](https://www.youtube.com/@AladdinPersson)" channel on YouTube.
 
